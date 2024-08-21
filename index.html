@@ -49,7 +49,7 @@
 		marked.use( markedGfmHeadingId.gfmHeadingId() );
 
 		// Get the markdown file, convert it to HTML & put it inside the main tag
-		fetch( 'https://raw.githubusercontent.com/XtronXI/Story-XtronXI/main/Readme.md' )
+		fetch( 'https://raw.githubusercontent.com/XtronXI/Story-XtronXI/main/readme.md' )
 			.then( response => response.text() )
 			.then( data => {
 				data = data.replaceAll( ':star2:', '<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png?v8" width="20">' );
