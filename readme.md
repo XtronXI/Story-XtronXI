@@ -1,6 +1,9 @@
-# XtronXI Story
+# [XtronXI Story](/)
 
 ---
+
+Other important stories:
+- [Craking Minecraft for Windows](https://mcdoc.openm.tech/story)
 
 ## Part 1 - First Gaming
 
@@ -8,7 +11,11 @@
 
 ## Part 2 - Eaglercraft
 
-- After 5th grade, I went to Dubai for Vacation. It was amazing since I never had Wi-Fi at home, and there it had. My dad gave me a basic PC setup and started to watch movies and play games. And then, I wanted to play Minecraft, but I didnt want to download it. So I searched Minecraft for free in Google, and thats when I stumbled upon a remake of Minecraft 1.8 which can be played in the browser, Eaglercraft. Then, I played a server called "B2Server". It was my soul. I made alot of friends and it was really peaceful (even though I did get *kinda* betrayed) since it had Keep Inventory on, Briefing protection and Functional Blocks ownership plugin. But, it became really sad when I went back to Home.
+- After 5th grade [2021-22], I went to Dubai for Vacation. It was amazing since I never had Wi-Fi at home, and there it had. My dad gave me a basic PC setup and started to watch movies and play games. And then, I wanted to play Minecraft, but I didnt want to download it. So I searched Minecraft for free in Google, and thats when I stumbled upon a remake of Minecraft 1.8 which can be played in the browser, Eaglercraft. Then, I played a server called "B2Server". It was my soul. I made alot of friends and it was really peaceful (even though I did get *kinda* betrayed) since it had Keep Inventory on, Briefing protection and Functional Blocks ownership plugin. But, it became really sad when I went back to Home.
 
 - **Friends I made in Eaglercraft: Galaxy, MrMilkShake, Demon_Lord and 1 more (i forgot)**
+
+## Part 3 - "Warez"
+
+
 
